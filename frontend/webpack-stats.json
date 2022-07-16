@@ -45,13 +45,735 @@
       "name": "app.77f78149f11e08b6.hot-update.json",
       "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.77f78149f11e08b6.hot-update.json",
       "publicPath": "http://0.0.0.0:8080/app.77f78149f11e08b6.hot-update.json"
+    },
+    "app.ce003a1da0dc9c0e.hot-update.js": {
+      "name": "app.ce003a1da0dc9c0e.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.ce003a1da0dc9c0e.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.ce003a1da0dc9c0e.hot-update.js"
+    },
+    "app.ce003a1da0dc9c0e.hot-update.json": {
+      "name": "app.ce003a1da0dc9c0e.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.ce003a1da0dc9c0e.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.ce003a1da0dc9c0e.hot-update.json"
+    },
+    "app.5a89cd5aa41e6ed5.hot-update.js": {
+      "name": "app.5a89cd5aa41e6ed5.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.5a89cd5aa41e6ed5.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.5a89cd5aa41e6ed5.hot-update.js"
+    },
+    "app.5a89cd5aa41e6ed5.hot-update.json": {
+      "name": "app.5a89cd5aa41e6ed5.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.5a89cd5aa41e6ed5.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.5a89cd5aa41e6ed5.hot-update.json"
+    },
+    "app.5322cf03748c28b3.hot-update.js": {
+      "name": "app.5322cf03748c28b3.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.5322cf03748c28b3.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.5322cf03748c28b3.hot-update.js"
+    },
+    "app.5322cf03748c28b3.hot-update.json": {
+      "name": "app.5322cf03748c28b3.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.5322cf03748c28b3.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.5322cf03748c28b3.hot-update.json"
+    },
+    "app.4be6cfa673320a97.hot-update.js": {
+      "name": "app.4be6cfa673320a97.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.4be6cfa673320a97.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.4be6cfa673320a97.hot-update.js"
+    },
+    "app.4be6cfa673320a97.hot-update.json": {
+      "name": "app.4be6cfa673320a97.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.4be6cfa673320a97.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.4be6cfa673320a97.hot-update.json"
+    },
+    "app.8834d7f448a5e1e7.hot-update.js": {
+      "name": "app.8834d7f448a5e1e7.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.8834d7f448a5e1e7.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.8834d7f448a5e1e7.hot-update.js"
+    },
+    "app.8834d7f448a5e1e7.hot-update.json": {
+      "name": "app.8834d7f448a5e1e7.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.8834d7f448a5e1e7.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.8834d7f448a5e1e7.hot-update.json"
+    },
+    "app.ed95b13df99290e8.hot-update.js": {
+      "name": "app.ed95b13df99290e8.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.ed95b13df99290e8.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.ed95b13df99290e8.hot-update.js"
+    },
+    "app.ed95b13df99290e8.hot-update.json": {
+      "name": "app.ed95b13df99290e8.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.ed95b13df99290e8.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.ed95b13df99290e8.hot-update.json"
+    },
+    "app.647c4e9fb47a058c.hot-update.js": {
+      "name": "app.647c4e9fb47a058c.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.647c4e9fb47a058c.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.647c4e9fb47a058c.hot-update.js"
+    },
+    "app.647c4e9fb47a058c.hot-update.json": {
+      "name": "app.647c4e9fb47a058c.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.647c4e9fb47a058c.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.647c4e9fb47a058c.hot-update.json"
+    },
+    "app.423b2d029587ca59.hot-update.js": {
+      "name": "app.423b2d029587ca59.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.423b2d029587ca59.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.423b2d029587ca59.hot-update.js"
+    },
+    "app.423b2d029587ca59.hot-update.json": {
+      "name": "app.423b2d029587ca59.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.423b2d029587ca59.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.423b2d029587ca59.hot-update.json"
+    },
+    "app.41491890766e202c.hot-update.js": {
+      "name": "app.41491890766e202c.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.41491890766e202c.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.41491890766e202c.hot-update.js"
+    },
+    "app.41491890766e202c.hot-update.json": {
+      "name": "app.41491890766e202c.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.41491890766e202c.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.41491890766e202c.hot-update.json"
+    },
+    "app.1c7c95652270bb94.hot-update.js": {
+      "name": "app.1c7c95652270bb94.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.1c7c95652270bb94.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.1c7c95652270bb94.hot-update.js"
+    },
+    "app.1c7c95652270bb94.hot-update.json": {
+      "name": "app.1c7c95652270bb94.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.1c7c95652270bb94.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.1c7c95652270bb94.hot-update.json"
+    },
+    "app.bb534e303b84cbb7.hot-update.js": {
+      "name": "app.bb534e303b84cbb7.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.bb534e303b84cbb7.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.bb534e303b84cbb7.hot-update.js"
+    },
+    "app.bb534e303b84cbb7.hot-update.json": {
+      "name": "app.bb534e303b84cbb7.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.bb534e303b84cbb7.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.bb534e303b84cbb7.hot-update.json"
+    },
+    "app.094307711053d34d.hot-update.js": {
+      "name": "app.094307711053d34d.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.094307711053d34d.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.094307711053d34d.hot-update.js"
+    },
+    "app.094307711053d34d.hot-update.json": {
+      "name": "app.094307711053d34d.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.094307711053d34d.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.094307711053d34d.hot-update.json"
+    },
+    "app.ab46f22533dc86fe.hot-update.js": {
+      "name": "app.ab46f22533dc86fe.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.ab46f22533dc86fe.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.ab46f22533dc86fe.hot-update.js"
+    },
+    "app.ab46f22533dc86fe.hot-update.json": {
+      "name": "app.ab46f22533dc86fe.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.ab46f22533dc86fe.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.ab46f22533dc86fe.hot-update.json"
+    },
+    "app.9fa98ceddb82892a.hot-update.js": {
+      "name": "app.9fa98ceddb82892a.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.9fa98ceddb82892a.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.9fa98ceddb82892a.hot-update.js"
+    },
+    "app.9fa98ceddb82892a.hot-update.json": {
+      "name": "app.9fa98ceddb82892a.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.9fa98ceddb82892a.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.9fa98ceddb82892a.hot-update.json"
+    },
+    "app.b96fb9959f1cadb0.hot-update.js": {
+      "name": "app.b96fb9959f1cadb0.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.b96fb9959f1cadb0.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.b96fb9959f1cadb0.hot-update.js"
+    },
+    "app.b96fb9959f1cadb0.hot-update.json": {
+      "name": "app.b96fb9959f1cadb0.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.b96fb9959f1cadb0.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.b96fb9959f1cadb0.hot-update.json"
+    },
+    "app.b38609b869b24665.hot-update.js": {
+      "name": "app.b38609b869b24665.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.b38609b869b24665.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.b38609b869b24665.hot-update.js"
+    },
+    "app.b38609b869b24665.hot-update.json": {
+      "name": "app.b38609b869b24665.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.b38609b869b24665.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.b38609b869b24665.hot-update.json"
+    },
+    "app.9ca397398cd6306e.hot-update.js": {
+      "name": "app.9ca397398cd6306e.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.9ca397398cd6306e.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.9ca397398cd6306e.hot-update.js"
+    },
+    "app.9ca397398cd6306e.hot-update.json": {
+      "name": "app.9ca397398cd6306e.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.9ca397398cd6306e.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.9ca397398cd6306e.hot-update.json"
+    },
+    "app.47a993c1f5904149.hot-update.js": {
+      "name": "app.47a993c1f5904149.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.47a993c1f5904149.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.47a993c1f5904149.hot-update.js"
+    },
+    "app.47a993c1f5904149.hot-update.json": {
+      "name": "app.47a993c1f5904149.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.47a993c1f5904149.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.47a993c1f5904149.hot-update.json"
+    },
+    "app.51168ad2595a338e.hot-update.js": {
+      "name": "app.51168ad2595a338e.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.51168ad2595a338e.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.51168ad2595a338e.hot-update.js"
+    },
+    "app.51168ad2595a338e.hot-update.json": {
+      "name": "app.51168ad2595a338e.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.51168ad2595a338e.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.51168ad2595a338e.hot-update.json"
+    },
+    "app.f247b44b256d3cf2.hot-update.js": {
+      "name": "app.f247b44b256d3cf2.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.f247b44b256d3cf2.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.f247b44b256d3cf2.hot-update.js"
+    },
+    "app.f247b44b256d3cf2.hot-update.json": {
+      "name": "app.f247b44b256d3cf2.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.f247b44b256d3cf2.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.f247b44b256d3cf2.hot-update.json"
+    },
+    "app.e00882e9e0357cea.hot-update.js": {
+      "name": "app.e00882e9e0357cea.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.e00882e9e0357cea.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.e00882e9e0357cea.hot-update.js"
+    },
+    "app.e00882e9e0357cea.hot-update.json": {
+      "name": "app.e00882e9e0357cea.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.e00882e9e0357cea.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.e00882e9e0357cea.hot-update.json"
+    },
+    "app.62315a691b23be69.hot-update.js": {
+      "name": "app.62315a691b23be69.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.62315a691b23be69.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.62315a691b23be69.hot-update.js"
+    },
+    "app.62315a691b23be69.hot-update.json": {
+      "name": "app.62315a691b23be69.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.62315a691b23be69.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.62315a691b23be69.hot-update.json"
+    },
+    "app.8f1103935e74615e.hot-update.js": {
+      "name": "app.8f1103935e74615e.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.8f1103935e74615e.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.8f1103935e74615e.hot-update.js"
+    },
+    "app.8f1103935e74615e.hot-update.json": {
+      "name": "app.8f1103935e74615e.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.8f1103935e74615e.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.8f1103935e74615e.hot-update.json"
+    },
+    "app.5182d2755a6eb240.hot-update.js": {
+      "name": "app.5182d2755a6eb240.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.5182d2755a6eb240.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.5182d2755a6eb240.hot-update.js"
+    },
+    "app.5182d2755a6eb240.hot-update.json": {
+      "name": "app.5182d2755a6eb240.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.5182d2755a6eb240.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.5182d2755a6eb240.hot-update.json"
+    },
+    "app.2e5ce24480700ed9.hot-update.js": {
+      "name": "app.2e5ce24480700ed9.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.2e5ce24480700ed9.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.2e5ce24480700ed9.hot-update.js"
+    },
+    "app.2e5ce24480700ed9.hot-update.json": {
+      "name": "app.2e5ce24480700ed9.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.2e5ce24480700ed9.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.2e5ce24480700ed9.hot-update.json"
+    },
+    "app.b467306f2a5307a6.hot-update.js": {
+      "name": "app.b467306f2a5307a6.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.b467306f2a5307a6.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.b467306f2a5307a6.hot-update.js"
+    },
+    "app.b467306f2a5307a6.hot-update.json": {
+      "name": "app.b467306f2a5307a6.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.b467306f2a5307a6.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.b467306f2a5307a6.hot-update.json"
+    },
+    "app.3b4946fb042ef3a9.hot-update.js": {
+      "name": "app.3b4946fb042ef3a9.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.3b4946fb042ef3a9.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.3b4946fb042ef3a9.hot-update.js"
+    },
+    "app.3b4946fb042ef3a9.hot-update.json": {
+      "name": "app.3b4946fb042ef3a9.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.3b4946fb042ef3a9.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.3b4946fb042ef3a9.hot-update.json"
+    },
+    "app.94a39fc794fde3d1.hot-update.js": {
+      "name": "app.94a39fc794fde3d1.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.94a39fc794fde3d1.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.94a39fc794fde3d1.hot-update.js"
+    },
+    "app.94a39fc794fde3d1.hot-update.json": {
+      "name": "app.94a39fc794fde3d1.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.94a39fc794fde3d1.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.94a39fc794fde3d1.hot-update.json"
+    },
+    "app.fe96063db6ad965c.hot-update.js": {
+      "name": "app.fe96063db6ad965c.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.fe96063db6ad965c.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.fe96063db6ad965c.hot-update.js"
+    },
+    "app.fe96063db6ad965c.hot-update.json": {
+      "name": "app.fe96063db6ad965c.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.fe96063db6ad965c.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.fe96063db6ad965c.hot-update.json"
+    },
+    "app.f8ed587d2f2e01d5.hot-update.js": {
+      "name": "app.f8ed587d2f2e01d5.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.f8ed587d2f2e01d5.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.f8ed587d2f2e01d5.hot-update.js"
+    },
+    "app.f8ed587d2f2e01d5.hot-update.json": {
+      "name": "app.f8ed587d2f2e01d5.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.f8ed587d2f2e01d5.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.f8ed587d2f2e01d5.hot-update.json"
+    },
+    "app.2749c1616709770e.hot-update.js": {
+      "name": "app.2749c1616709770e.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.2749c1616709770e.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.2749c1616709770e.hot-update.js"
+    },
+    "app.2749c1616709770e.hot-update.json": {
+      "name": "app.2749c1616709770e.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.2749c1616709770e.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.2749c1616709770e.hot-update.json"
+    },
+    "app.821e5907a25b3358.hot-update.js": {
+      "name": "app.821e5907a25b3358.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.821e5907a25b3358.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.821e5907a25b3358.hot-update.js"
+    },
+    "app.821e5907a25b3358.hot-update.json": {
+      "name": "app.821e5907a25b3358.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.821e5907a25b3358.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.821e5907a25b3358.hot-update.json"
+    },
+    "app.9b162af24a4f0566.hot-update.js": {
+      "name": "app.9b162af24a4f0566.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.9b162af24a4f0566.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.9b162af24a4f0566.hot-update.js"
+    },
+    "app.9b162af24a4f0566.hot-update.json": {
+      "name": "app.9b162af24a4f0566.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.9b162af24a4f0566.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.9b162af24a4f0566.hot-update.json"
+    },
+    "app.f5d0dbac6e0d4252.hot-update.js": {
+      "name": "app.f5d0dbac6e0d4252.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.f5d0dbac6e0d4252.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.f5d0dbac6e0d4252.hot-update.js"
+    },
+    "app.f5d0dbac6e0d4252.hot-update.json": {
+      "name": "app.f5d0dbac6e0d4252.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.f5d0dbac6e0d4252.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.f5d0dbac6e0d4252.hot-update.json"
+    },
+    "app.393c201dca039fd6.hot-update.js": {
+      "name": "app.393c201dca039fd6.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.393c201dca039fd6.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.393c201dca039fd6.hot-update.js"
+    },
+    "app.393c201dca039fd6.hot-update.json": {
+      "name": "app.393c201dca039fd6.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.393c201dca039fd6.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.393c201dca039fd6.hot-update.json"
+    },
+    "app.8a96e574af59d864.hot-update.js": {
+      "name": "app.8a96e574af59d864.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.8a96e574af59d864.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.8a96e574af59d864.hot-update.js"
+    },
+    "app.8a96e574af59d864.hot-update.json": {
+      "name": "app.8a96e574af59d864.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.8a96e574af59d864.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.8a96e574af59d864.hot-update.json"
+    },
+    "app.a8b63a2e52a1ed0f.hot-update.js": {
+      "name": "app.a8b63a2e52a1ed0f.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.a8b63a2e52a1ed0f.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.a8b63a2e52a1ed0f.hot-update.js"
+    },
+    "app.a8b63a2e52a1ed0f.hot-update.json": {
+      "name": "app.a8b63a2e52a1ed0f.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.a8b63a2e52a1ed0f.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.a8b63a2e52a1ed0f.hot-update.json"
+    },
+    "app.c7c44b872559368e.hot-update.js": {
+      "name": "app.c7c44b872559368e.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.c7c44b872559368e.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.c7c44b872559368e.hot-update.js"
+    },
+    "app.c7c44b872559368e.hot-update.json": {
+      "name": "app.c7c44b872559368e.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.c7c44b872559368e.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.c7c44b872559368e.hot-update.json"
+    },
+    "app.088cc36f8a710d68.hot-update.js": {
+      "name": "app.088cc36f8a710d68.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.088cc36f8a710d68.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.088cc36f8a710d68.hot-update.js"
+    },
+    "app.088cc36f8a710d68.hot-update.json": {
+      "name": "app.088cc36f8a710d68.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.088cc36f8a710d68.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.088cc36f8a710d68.hot-update.json"
+    },
+    "app.c2c08619c4b6e416.hot-update.js": {
+      "name": "app.c2c08619c4b6e416.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.c2c08619c4b6e416.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.c2c08619c4b6e416.hot-update.js"
+    },
+    "app.c2c08619c4b6e416.hot-update.json": {
+      "name": "app.c2c08619c4b6e416.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.c2c08619c4b6e416.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.c2c08619c4b6e416.hot-update.json"
+    },
+    "app.f4251a5fca721d39.hot-update.js": {
+      "name": "app.f4251a5fca721d39.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.f4251a5fca721d39.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.f4251a5fca721d39.hot-update.js"
+    },
+    "app.f4251a5fca721d39.hot-update.json": {
+      "name": "app.f4251a5fca721d39.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.f4251a5fca721d39.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.f4251a5fca721d39.hot-update.json"
+    },
+    "app.2ec4df527992d31f.hot-update.js": {
+      "name": "app.2ec4df527992d31f.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.2ec4df527992d31f.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.2ec4df527992d31f.hot-update.js"
+    },
+    "app.2ec4df527992d31f.hot-update.json": {
+      "name": "app.2ec4df527992d31f.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.2ec4df527992d31f.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.2ec4df527992d31f.hot-update.json"
+    },
+    "app.4b43f8ac952e4f78.hot-update.js": {
+      "name": "app.4b43f8ac952e4f78.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.4b43f8ac952e4f78.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.4b43f8ac952e4f78.hot-update.js"
+    },
+    "app.4b43f8ac952e4f78.hot-update.json": {
+      "name": "app.4b43f8ac952e4f78.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.4b43f8ac952e4f78.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.4b43f8ac952e4f78.hot-update.json"
+    },
+    "app.11c6889068b21824.hot-update.js": {
+      "name": "app.11c6889068b21824.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.11c6889068b21824.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.11c6889068b21824.hot-update.js"
+    },
+    "app.11c6889068b21824.hot-update.json": {
+      "name": "app.11c6889068b21824.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.11c6889068b21824.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.11c6889068b21824.hot-update.json"
+    },
+    "app.471a7473712379c8.hot-update.js": {
+      "name": "app.471a7473712379c8.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.471a7473712379c8.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.471a7473712379c8.hot-update.js"
+    },
+    "app.471a7473712379c8.hot-update.json": {
+      "name": "app.471a7473712379c8.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.471a7473712379c8.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.471a7473712379c8.hot-update.json"
+    },
+    "app.43067cdaaa3971c1.hot-update.js": {
+      "name": "app.43067cdaaa3971c1.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.43067cdaaa3971c1.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.43067cdaaa3971c1.hot-update.js"
+    },
+    "app.43067cdaaa3971c1.hot-update.json": {
+      "name": "app.43067cdaaa3971c1.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.43067cdaaa3971c1.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.43067cdaaa3971c1.hot-update.json"
+    },
+    "app.ea670cfc72468ee2.hot-update.js": {
+      "name": "app.ea670cfc72468ee2.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.ea670cfc72468ee2.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.ea670cfc72468ee2.hot-update.js"
+    },
+    "app.ea670cfc72468ee2.hot-update.json": {
+      "name": "app.ea670cfc72468ee2.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.ea670cfc72468ee2.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.ea670cfc72468ee2.hot-update.json"
+    },
+    "app.d6f942cdae6c28af.hot-update.js": {
+      "name": "app.d6f942cdae6c28af.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.d6f942cdae6c28af.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.d6f942cdae6c28af.hot-update.js"
+    },
+    "app.d6f942cdae6c28af.hot-update.json": {
+      "name": "app.d6f942cdae6c28af.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.d6f942cdae6c28af.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.d6f942cdae6c28af.hot-update.json"
+    },
+    "app.041db950ff6c9ff2.hot-update.js": {
+      "name": "app.041db950ff6c9ff2.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.041db950ff6c9ff2.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.041db950ff6c9ff2.hot-update.js"
+    },
+    "app.041db950ff6c9ff2.hot-update.json": {
+      "name": "app.041db950ff6c9ff2.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.041db950ff6c9ff2.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.041db950ff6c9ff2.hot-update.json"
+    },
+    "app.12cef5b647c7a71e.hot-update.js": {
+      "name": "app.12cef5b647c7a71e.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.12cef5b647c7a71e.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.12cef5b647c7a71e.hot-update.js"
+    },
+    "app.12cef5b647c7a71e.hot-update.json": {
+      "name": "app.12cef5b647c7a71e.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.12cef5b647c7a71e.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.12cef5b647c7a71e.hot-update.json"
+    },
+    "app.4f5ad80fcb4faf5b.hot-update.js": {
+      "name": "app.4f5ad80fcb4faf5b.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.4f5ad80fcb4faf5b.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.4f5ad80fcb4faf5b.hot-update.js"
+    },
+    "app.4f5ad80fcb4faf5b.hot-update.json": {
+      "name": "app.4f5ad80fcb4faf5b.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.4f5ad80fcb4faf5b.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.4f5ad80fcb4faf5b.hot-update.json"
+    },
+    "app.1b1f5234b70fa69d.hot-update.js": {
+      "name": "app.1b1f5234b70fa69d.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.1b1f5234b70fa69d.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.1b1f5234b70fa69d.hot-update.js"
+    },
+    "app.1b1f5234b70fa69d.hot-update.json": {
+      "name": "app.1b1f5234b70fa69d.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.1b1f5234b70fa69d.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.1b1f5234b70fa69d.hot-update.json"
+    },
+    "app.4c942433c1f2c30b.hot-update.js": {
+      "name": "app.4c942433c1f2c30b.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.4c942433c1f2c30b.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.4c942433c1f2c30b.hot-update.js"
+    },
+    "app.4c942433c1f2c30b.hot-update.json": {
+      "name": "app.4c942433c1f2c30b.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.4c942433c1f2c30b.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.4c942433c1f2c30b.hot-update.json"
+    },
+    "app.86898b6e1cf3f811.hot-update.js": {
+      "name": "app.86898b6e1cf3f811.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.86898b6e1cf3f811.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.86898b6e1cf3f811.hot-update.js"
+    },
+    "app.86898b6e1cf3f811.hot-update.json": {
+      "name": "app.86898b6e1cf3f811.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.86898b6e1cf3f811.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.86898b6e1cf3f811.hot-update.json"
+    },
+    "app.5526a58533e390d7.hot-update.js": {
+      "name": "app.5526a58533e390d7.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.5526a58533e390d7.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.5526a58533e390d7.hot-update.js"
+    },
+    "app.5526a58533e390d7.hot-update.json": {
+      "name": "app.5526a58533e390d7.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.5526a58533e390d7.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.5526a58533e390d7.hot-update.json"
+    },
+    "app.01d729601a5a90c3.hot-update.js": {
+      "name": "app.01d729601a5a90c3.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.01d729601a5a90c3.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.01d729601a5a90c3.hot-update.js"
+    },
+    "app.01d729601a5a90c3.hot-update.json": {
+      "name": "app.01d729601a5a90c3.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.01d729601a5a90c3.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.01d729601a5a90c3.hot-update.json"
+    },
+    "app.85674810d954ffd1.hot-update.js": {
+      "name": "app.85674810d954ffd1.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.85674810d954ffd1.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.85674810d954ffd1.hot-update.js"
+    },
+    "app.85674810d954ffd1.hot-update.json": {
+      "name": "app.85674810d954ffd1.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.85674810d954ffd1.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.85674810d954ffd1.hot-update.json"
+    },
+    "app.669eb605a3bf52d2.hot-update.js": {
+      "name": "app.669eb605a3bf52d2.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.669eb605a3bf52d2.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.669eb605a3bf52d2.hot-update.js"
+    },
+    "app.669eb605a3bf52d2.hot-update.json": {
+      "name": "app.669eb605a3bf52d2.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.669eb605a3bf52d2.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.669eb605a3bf52d2.hot-update.json"
+    },
+    "app.38ee47efbe0930a8.hot-update.js": {
+      "name": "app.38ee47efbe0930a8.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.38ee47efbe0930a8.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.38ee47efbe0930a8.hot-update.js"
+    },
+    "app.38ee47efbe0930a8.hot-update.json": {
+      "name": "app.38ee47efbe0930a8.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.38ee47efbe0930a8.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.38ee47efbe0930a8.hot-update.json"
+    },
+    "app.2bbb1a89ac90aeaa.hot-update.js": {
+      "name": "app.2bbb1a89ac90aeaa.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.2bbb1a89ac90aeaa.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.2bbb1a89ac90aeaa.hot-update.js"
+    },
+    "app.2bbb1a89ac90aeaa.hot-update.json": {
+      "name": "app.2bbb1a89ac90aeaa.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.2bbb1a89ac90aeaa.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.2bbb1a89ac90aeaa.hot-update.json"
+    },
+    "app.007ac910851299e0.hot-update.js": {
+      "name": "app.007ac910851299e0.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.007ac910851299e0.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.007ac910851299e0.hot-update.js"
+    },
+    "app.007ac910851299e0.hot-update.json": {
+      "name": "app.007ac910851299e0.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.007ac910851299e0.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.007ac910851299e0.hot-update.json"
+    },
+    "app.65fc9ed28d908ed5.hot-update.js": {
+      "name": "app.65fc9ed28d908ed5.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.65fc9ed28d908ed5.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.65fc9ed28d908ed5.hot-update.js"
+    },
+    "app.65fc9ed28d908ed5.hot-update.json": {
+      "name": "app.65fc9ed28d908ed5.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.65fc9ed28d908ed5.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.65fc9ed28d908ed5.hot-update.json"
+    },
+    "app.de24c93eefac3b6a.hot-update.js": {
+      "name": "app.de24c93eefac3b6a.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.de24c93eefac3b6a.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.de24c93eefac3b6a.hot-update.js"
+    },
+    "app.de24c93eefac3b6a.hot-update.json": {
+      "name": "app.de24c93eefac3b6a.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.de24c93eefac3b6a.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.de24c93eefac3b6a.hot-update.json"
+    },
+    "app.d79207cb07ba0dd4.hot-update.js": {
+      "name": "app.d79207cb07ba0dd4.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.d79207cb07ba0dd4.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.d79207cb07ba0dd4.hot-update.js"
+    },
+    "app.d79207cb07ba0dd4.hot-update.json": {
+      "name": "app.d79207cb07ba0dd4.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.d79207cb07ba0dd4.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.d79207cb07ba0dd4.hot-update.json"
+    },
+    "app.9ab70433744b223d.hot-update.js": {
+      "name": "app.9ab70433744b223d.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.9ab70433744b223d.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.9ab70433744b223d.hot-update.js"
+    },
+    "app.9ab70433744b223d.hot-update.json": {
+      "name": "app.9ab70433744b223d.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.9ab70433744b223d.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.9ab70433744b223d.hot-update.json"
+    },
+    "app.f146f56aada871d3.hot-update.js": {
+      "name": "app.f146f56aada871d3.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.f146f56aada871d3.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.f146f56aada871d3.hot-update.js"
+    },
+    "app.f146f56aada871d3.hot-update.json": {
+      "name": "app.f146f56aada871d3.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.f146f56aada871d3.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.f146f56aada871d3.hot-update.json"
+    },
+    "app.f64eff6a756488e1.hot-update.js": {
+      "name": "app.f64eff6a756488e1.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.f64eff6a756488e1.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.f64eff6a756488e1.hot-update.js"
+    },
+    "app.f64eff6a756488e1.hot-update.json": {
+      "name": "app.f64eff6a756488e1.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.f64eff6a756488e1.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.f64eff6a756488e1.hot-update.json"
+    },
+    "app.bc771a3691e71c08.hot-update.js": {
+      "name": "app.bc771a3691e71c08.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.bc771a3691e71c08.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.bc771a3691e71c08.hot-update.js"
+    },
+    "app.bc771a3691e71c08.hot-update.json": {
+      "name": "app.bc771a3691e71c08.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.bc771a3691e71c08.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.bc771a3691e71c08.hot-update.json"
+    },
+    "app.7b74ee4ed2391bf0.hot-update.js": {
+      "name": "app.7b74ee4ed2391bf0.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.7b74ee4ed2391bf0.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.7b74ee4ed2391bf0.hot-update.js"
+    },
+    "app.7b74ee4ed2391bf0.hot-update.json": {
+      "name": "app.7b74ee4ed2391bf0.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.7b74ee4ed2391bf0.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.7b74ee4ed2391bf0.hot-update.json"
+    },
+    "app.820b423bf249ffa6.hot-update.js": {
+      "name": "app.820b423bf249ffa6.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.820b423bf249ffa6.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.820b423bf249ffa6.hot-update.js"
+    },
+    "app.820b423bf249ffa6.hot-update.json": {
+      "name": "app.820b423bf249ffa6.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.820b423bf249ffa6.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.820b423bf249ffa6.hot-update.json"
+    },
+    "app.374552d56a89c289.hot-update.js": {
+      "name": "app.374552d56a89c289.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.374552d56a89c289.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.374552d56a89c289.hot-update.js"
+    },
+    "app.374552d56a89c289.hot-update.json": {
+      "name": "app.374552d56a89c289.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.374552d56a89c289.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.374552d56a89c289.hot-update.json"
+    },
+    "app.372dda8eee403ed8.hot-update.js": {
+      "name": "app.372dda8eee403ed8.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.372dda8eee403ed8.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.372dda8eee403ed8.hot-update.js"
+    },
+    "app.372dda8eee403ed8.hot-update.json": {
+      "name": "app.372dda8eee403ed8.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.372dda8eee403ed8.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.372dda8eee403ed8.hot-update.json"
     }
   },
   "chunks": {
     "app": [
       "js/app.js",
-      "app.77f78149f11e08b6.hot-update.js"
+      "app.372dda8eee403ed8.hot-update.js"
     ]
   },
-  "publicPath": "http://0.0.0.0:8080/"
+  "publicPath": "http://0.0.0.0:8080/",
+  "error": "ModuleError",
+  "message": "Module Error (from ./node_modules/vue-loader/dist/index.js):\n\nVueCompilerError: Attribute name cannot contain U+0022 (\"), U+0027 ('), and U+003C (<).\nat /home/gutzig/Studies/vue-django/frontend/src/components/HelloWorld.vue:13:47\n11 |  \n12 |  <script setup>\n13 |  import { useTodoStore } from \"../store/todo.ts\";\n   |                                                ^\n14 |  \n15 |  const todo = useTodoStore();\n"
 }
