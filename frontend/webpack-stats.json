@@ -1,0 +1,57 @@
+{
+  "status": "done",
+  "assets": {
+    "js/app.js": {
+      "name": "js/app.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/js/app.js",
+      "publicPath": "http://0.0.0.0:8080/js/app.js"
+    },
+    "favicon.ico": {
+      "name": "favicon.ico",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/favicon.ico",
+      "publicPath": "http://0.0.0.0:8080/favicon.ico"
+    },
+    "index.html": {
+      "name": "index.html",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/index.html",
+      "publicPath": "http://0.0.0.0:8080/index.html"
+    },
+    "app.036b9cc83e4e6782.hot-update.js": {
+      "name": "app.036b9cc83e4e6782.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.036b9cc83e4e6782.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.036b9cc83e4e6782.hot-update.js"
+    },
+    "app.036b9cc83e4e6782.hot-update.json": {
+      "name": "app.036b9cc83e4e6782.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.036b9cc83e4e6782.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.036b9cc83e4e6782.hot-update.json"
+    },
+    "app.4bc2ae87bc53c416.hot-update.js": {
+      "name": "app.4bc2ae87bc53c416.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.4bc2ae87bc53c416.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.4bc2ae87bc53c416.hot-update.js"
+    },
+    "app.4bc2ae87bc53c416.hot-update.json": {
+      "name": "app.4bc2ae87bc53c416.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.4bc2ae87bc53c416.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.4bc2ae87bc53c416.hot-update.json"
+    },
+    "app.77f78149f11e08b6.hot-update.js": {
+      "name": "app.77f78149f11e08b6.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.77f78149f11e08b6.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.77f78149f11e08b6.hot-update.js"
+    },
+    "app.77f78149f11e08b6.hot-update.json": {
+      "name": "app.77f78149f11e08b6.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/frontend/dist/app.77f78149f11e08b6.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.77f78149f11e08b6.hot-update.json"
+    }
+  },
+  "chunks": {
+    "app": [
+      "js/app.js",
+      "app.77f78149f11e08b6.hot-update.js"
+    ]
+  },
+  "publicPath": "http://0.0.0.0:8080/"
+}
