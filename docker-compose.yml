@@ -1,27 +1,28 @@
-version: "3.9"
+version: "3.3"
 
 services:
-  db:
-    image: postgres
+  django:
+    build:
+      context: .
+      dockerfile: docker/BackendDockerfile
+    container_name: docker-django-vue-backend
+    command: ./docker/backend_setup.sh
     environment:
-      - POSTGRES_NAME=postgres
-      - POSTGRES_USER=postgres
-      - POSTGRES_PASSWORD=postgres
-  client:
-    build: ./frontend/
-    command: npm run build
-    ports:
-      - "8081:8080"
-    depends_on:
-      - server
-  server:
-    build: ./
-    command: python manage.py runserver 0.0.0.0:8000
+      POSTGRES_NAME: postgres
+      POSTGRES_USER: user
+      POSTGRES_PASSWORD: pass
+      POSTGRES_HOST: db
+    volumes:
+      - .:/app
     ports:
       - "8000:8000"
-    environment:
-      - POSTGRES_NAME=postgres
-      - POSTGRES_USER=postgres
-      - POSTGRES_PASSWORD=postgres
+  vue:
+    build:
+      context: .
+      dockerfile: docker/FrontendDockerfile
+    container_name: docker-django-vue-frontend
+    command: ./docker/frontend_setup.sh
+    volumes:
+      - .:/app
     depends_on:
-      - db
+      - django
