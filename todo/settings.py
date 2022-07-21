@@ -131,13 +131,13 @@ STATICFILES_DIRS = [
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-WEBPACK_LOADER = {
-  'DEFAULT': {
-    'CACHE': not DEBUG,
-    'STATS_FILE': str(BASE_DIR.joinpath('frontend', 'webpack-stats.json')),
-    'POLL_INTERVAL': 0.1,
-    'IGNORE': [r'.+\.hot-update.js', r'.+\.map'],
-  }
-}
+# WEBPACK_LOADER = {
+#   'DEFAULT': {
+#     'CACHE': not DEBUG,
+#     'STATS_FILE': str(BASE_DIR.joinpath('frontend', 'webpack-stats.json')),
+#     'POLL_INTERVAL': 0.1,
+#     'IGNORE': [r'.+\.hot-update.js', r'.+\.map'],
+#   }
+# }
 
 django_on_heroku.settings(locals())
