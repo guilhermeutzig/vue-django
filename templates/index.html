@@ -1,15 +1,4 @@
-{% load render_bundle from webpack_loader %}
-
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    {% render_bundle 'app' 'css' %}
-    <title>Document</title>
-  </head>
-  <body>
-    <div id="app"></div>
-    {% render_bundle 'app' 'js' %}
-  </body>
-</html>
+{% extends 'base-vue.html' %} {% block content %}
+<h2>From Django index.html</h2>
+<div id="app"></div>
+{% endblock %}

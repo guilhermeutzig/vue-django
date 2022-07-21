@@ -1,18 +1,27 @@
 const BundleTracker = require("webpack-bundle-tracker");
 
 module.exports = {
-  publicPath: "http://0.0.0.0:8080",
-  outputDir: "./dist/",
+  publicPath:
+    process.env.NODE_ENV === "production"
+      ? "/static/dist/"
+      : "http://0.0.0.0:8080",
+  outputDir: "../static/dist/",
+  indexPath: "../../templates/base-vue.html",
   devServer: {
     host: "0.0.0.0",
-    static: {
-      publicPath: "http://0.0.0.0:8080",
-    },
     port: 8080,
     https: false,
     hot: "only",
+    static: {
+      publicPath: "http://0.0.0.0:8080",
+    },
     headers: {
       "Access-Control-Allow-Origin": ["*"],
+    },
+    devMiddleware: {
+      writeToDisk: (filePath) => filePath.endsWith("index.html"),
+      headers: { "Acess-Control-Allow-Origin": "*" },
+      publicPath: "http://localhost:8080",
     },
   },
   chainWebpack: (config) => {

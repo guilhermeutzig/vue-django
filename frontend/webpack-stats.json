@@ -3,23 +3,44 @@
   "assets": {
     "js/app.js": {
       "name": "js/app.js",
-      "path": "/home/gutzig/Studies/vue-django/frontend/dist/js/app.js",
+      "path": "/home/gutzig/Studies/vue-django/static/dist/js/app.js",
       "publicPath": "http://0.0.0.0:8080/js/app.js"
     },
     "favicon.ico": {
       "name": "favicon.ico",
-      "path": "/home/gutzig/Studies/vue-django/frontend/dist/favicon.ico",
+      "path": "/home/gutzig/Studies/vue-django/static/dist/favicon.ico",
       "publicPath": "http://0.0.0.0:8080/favicon.ico"
     },
     "index.html": {
       "name": "index.html",
-      "path": "/home/gutzig/Studies/vue-django/frontend/dist/index.html",
+      "path": "/home/gutzig/Studies/vue-django/static/dist/index.html",
       "publicPath": "http://0.0.0.0:8080/index.html"
+    },
+    "app.521b9e4cc486bd21.hot-update.js": {
+      "name": "app.521b9e4cc486bd21.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/static/dist/app.521b9e4cc486bd21.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.521b9e4cc486bd21.hot-update.js"
+    },
+    "app.521b9e4cc486bd21.hot-update.json": {
+      "name": "app.521b9e4cc486bd21.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/static/dist/app.521b9e4cc486bd21.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.521b9e4cc486bd21.hot-update.json"
+    },
+    "app.98eef96f2337c2cc.hot-update.js": {
+      "name": "app.98eef96f2337c2cc.hot-update.js",
+      "path": "/home/gutzig/Studies/vue-django/static/dist/app.98eef96f2337c2cc.hot-update.js",
+      "publicPath": "http://0.0.0.0:8080/app.98eef96f2337c2cc.hot-update.js"
+    },
+    "app.98eef96f2337c2cc.hot-update.json": {
+      "name": "app.98eef96f2337c2cc.hot-update.json",
+      "path": "/home/gutzig/Studies/vue-django/static/dist/app.98eef96f2337c2cc.hot-update.json",
+      "publicPath": "http://0.0.0.0:8080/app.98eef96f2337c2cc.hot-update.json"
     }
   },
   "chunks": {
     "app": [
-      "js/app.js"
+      "js/app.js",
+      "app.98eef96f2337c2cc.hot-update.js"
     ]
   },
   "publicPath": "http://0.0.0.0:8080/"
