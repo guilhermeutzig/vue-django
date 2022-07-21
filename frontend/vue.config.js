@@ -11,9 +11,6 @@ module.exports = {
     host: "0.0.0.0",
     port: 8080,
     hot: "only",
-    static: {
-      publicPath: "http://0.0.0.0:8080",
-    },
     headers: {
       "Access-Control-Allow-Origin": ["*"],
     },
