@@ -1,8 +1,10 @@
+const publicPath =
+  process.env.NODE_ENV === "production"
+    ? "/static/dist/"
+    : "http://0.0.0.0:8080";
+
 module.exports = {
-  publicPath:
-    process.env.NODE_ENV === "production"
-      ? "/static/dist/"
-      : "http://0.0.0.0:8080",
+  publicPath,
   outputDir: "../static/dist/",
   indexPath: "../../templates/base-vue.html",
   devServer: {
@@ -14,7 +16,7 @@ module.exports = {
     devMiddleware: {
       writeToDisk: (filePath) => filePath.endsWith("index.html"),
       headers: { "Acess-Control-Allow-Origin": "*" },
-      publicPath: "http://localhost:8080",
+      publicPath,
     },
   },
 };
