@@ -1,1 +1,15 @@
-{% extends 'base.html' %} {% block html %}<!doctype html><html lang=""><head><meta charset="utf-8"/><meta http-equiv="X-UA-Compatible" content="IE=edge"/><meta name="viewport" content="width=device-width,initial-scale=1"/><link rel="icon" href="/static/dist/favicon.ico"/><title>frontend</title><script defer="defer" src="/static/dist/js/chunk-vendors.708b6c06.js"></script><script defer="defer" src="/static/dist/js/app.4f530132.js"></script><link href="/static/dist/css/app.8e8c190d.css" rel="stylesheet"></head><body>{% block body %} {{ block.super }} {% endblock %}</body></html>{% endblock %}
+{% extends 'base.html' %} {% block html %}
+<!DOCTYPE html>
+<html lang="">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+    <link rel="icon" href="http://0.0.0.0:8080/favicon.ico" />
+    <title>frontend</title>
+  <script defer src="http://0.0.0.0:8080/js/chunk-vendors.js"></script><script defer src="http://0.0.0.0:8080/js/app.js"></script></head>
+  <body>
+    {% block body %} {{ block.super }} {% endblock %}
+  </body>
+</html>
+{% endblock %}

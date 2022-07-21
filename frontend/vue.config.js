@@ -13,6 +13,11 @@ module.exports = {
     headers: {
       "Access-Control-Allow-Origin": ["*"],
     },
+    watchFiles: {
+      options: {
+        usePolling: true,
+      },
+    },
     devMiddleware: {
       writeToDisk: (filePath) => filePath.endsWith("index.html"),
       headers: { "Acess-Control-Allow-Origin": "*" },

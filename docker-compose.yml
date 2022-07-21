@@ -8,21 +8,22 @@ services:
     container_name: docker-django-vue-backend
     command: ./docker/backend_setup.sh
     environment:
-      POSTGRES_NAME: postgres
-      POSTGRES_USER: user
-      POSTGRES_PASSWORD: pass
-      POSTGRES_HOST: db
+      - CHOKIDAR_USEPOLLING=true
     volumes:
       - .:/app
     ports:
       - "8000:8000"
+    depends_on:
+      - vue
   vue:
     build:
       context: .
       dockerfile: docker/FrontendDockerfile
     container_name: docker-django-vue-frontend
     command: ./docker/frontend_setup.sh
+    environment:
+      - CHOKIDAR_USEPOLLING=true
     volumes:
       - .:/app
-    depends_on:
-      - django
+    ports:
+      - "8080:8080"
