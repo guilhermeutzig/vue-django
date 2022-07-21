@@ -1,10 +1,7 @@
 const BundleTracker = require("webpack-bundle-tracker");
 
 module.exports = {
-  publicPath:
-    process.env.NODE_ENV === "production"
-      ? "/static/dist/"
-      : "http://0.0.0.0:8080",
+  publicPath: "/static/dist/",
   outputDir: "../static/dist/",
   indexPath: "../../templates/base-vue.html",
   devServer: {
