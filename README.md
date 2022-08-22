@@ -24,7 +24,24 @@ Install Docker to your machine and run:
 docker compose up
 ```
 
+or
+
+Install Node and Python, open two different terminal tabs and run these two commands:
+
+```sh
+./manage.py runserver
+```
+
+```sh
+cd frontend && yarn serve
+```
+
 ### Deploy
 
-To deploy the application all you need to do is push changes to this repo. CircleCI will automatically start the build/deploy process to Heroku, which will be displayed in this URL:
+To deploy the application all you need to do is run `yarn build` in the frontend folder and push the changes to this repo. CircleCI will automatically start the build/deploy process to Heroku, which will be displayed in this URL:
 https://utzigui-vue-django.herokuapp.com/
+
+### TODO
+
+- Automate to automatically build before push
+- Fix docker compose
