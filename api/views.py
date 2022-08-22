@@ -1,13 +1,20 @@
+from logging import info
 from rest_framework.response import Response
 from rest_framework.decorators import api_view
 from todo.models import Item
 from .serializers import ItemSerializer
+from django.http import QueryDict
+
+from api import serializers
+
+def getAllItems():
+    items = Item.objects.all()
+    serializer = ItemSerializer(items, many=True)
+    return serializer.data
 
 @api_view(['GET'])
 def getData(request):
-    items = Item.objects.all()
-    serializer = ItemSerializer(items, many=True)
-    return Response(serializer.data)
+    return Response(getAllItems())
 
 @api_view(['POST'])
 def addItem(request):
@@ -15,3 +22,36 @@ def addItem(request):
     if serializer.is_valid():
         serializer.save()
     return Response(serializer.data)
+
+@api_view(['PUT'])
+def editItem(request, id): 
+    try:
+        item = Item.objects.get(id=id)
+    except Item.DoesNotExist:
+        return Response(status=404)
+
+    serializer = ItemSerializer(item, data=request.data)
+    data = {}
+    if serializer.is_valid():
+        serializer.save()
+        data['items'] = getAllItems()
+        data['success'] = 'Updated successfully'
+        return Response(data=data)
+
+    return Response(serializer.errors, status=400)
+
+@api_view(['DELETE'])
+def deleteItem(request, id): 
+    try:
+        item = Item.objects.get(id=id)
+    except Item.DoesNotExist:
+        return Response(status=404)
+
+    operation = item.delete()
+    data = {}
+    if operation:
+        data['items'] = getAllItems()
+        data['success'] = f'Deleted item with the id "{id}" successfully'
+    else:
+        data['failure'] = 'Failed to delete item'
+    return Response(data=data)
