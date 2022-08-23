@@ -36,10 +36,13 @@ def editItem(request, id):
     # This condition removes "title" requirement 
     # when checking/unchecking on Frontend
     payload = request.data
-    if not hasattr(payload, 'title'):
+    if not 'title' in payload:
         payload['title'] = item.title
 
-    serializer = ItemSerializer(item, data=payload)
+    print(payload)
+    print('title' in payload)
+
+    serializer = ItemSerializer(item, data=request.data)
     data = {}
     if serializer.is_valid():
         serializer.save()
