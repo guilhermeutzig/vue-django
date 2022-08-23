@@ -1,11 +1,8 @@
-from logging import info
+import pdb
 from rest_framework.response import Response
 from rest_framework.decorators import api_view
 from todo.models import Item
 from .serializers import ItemSerializer
-from django.http import QueryDict
-
-from api import serializers
 
 def getAllItems():
     items = Item.objects.all()
@@ -19,9 +16,15 @@ def getData(request):
 @api_view(['POST'])
 def addItem(request):
     serializer = ItemSerializer(data=request.data)
+    
     if serializer.is_valid():
         serializer.save()
-    return Response(serializer.data)
+        data = {}
+        data['items'] = getAllItems()
+        data['success'] = 'Added item successfully'
+        return Response(data=data)
+    
+    return Response(serializer.errors, status=400)
 
 @api_view(['PUT'])
 def editItem(request, id): 
@@ -30,7 +33,13 @@ def editItem(request, id):
     except Item.DoesNotExist:
         return Response(status=404)
 
-    serializer = ItemSerializer(item, data=request.data)
+    # This condition removes "title" requirement 
+    # when checking/unchecking on Frontend
+    payload = request.data
+    if not hasattr(payload, 'title'):
+        payload['title'] = item.title
+
+    serializer = ItemSerializer(item, data=payload)
     data = {}
     if serializer.is_valid():
         serializer.save()

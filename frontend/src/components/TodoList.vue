@@ -14,10 +14,10 @@
     <p v-if="todo.notDoneItems.length === 0 && todo.doneItems.length === 0">
       No items on your todo list, please add one below.
     </p>
-    <form @submit="onAdd(newItem, $event)">
+    <form @submit="onAdd(newItemTitle, $event)">
       <InputField
-        :value="newItem"
-        @input="(e) => (newItem = e.target.value)"
+        :value="newItemTitle"
+        @input="(e) => (newItemTitle = e.target.value)"
         placeholder="Write here your new item"
       />
       <button type="submit">Add item</button>
@@ -27,6 +27,7 @@
 
 <script>
 import { useTodoStore } from "../store/todo.ts";
+import { getTodoItems, addTodoItem } from "../api/todo.ts";
 
 import TodoItem from "./TodoItem.vue";
 import InputField from "./InputField.vue";
@@ -43,22 +44,37 @@ export default {
   data() {
     return {
       todo: useTodoStore(),
-      newItem: "",
+      newItemTitle: "",
     };
   },
+  mounted: async function () {
+    const data = await getTodoItems();
+    this.saveNewItems(data);
+  },
   methods: {
-    onAdd: function (newItem, event) {
-      event.preventDefault();
+    saveNewItems: function (items) {
       this.todo.$patch((state) => {
-        state.list.push({
-          id: Math.random(),
-          title: newItem,
-          isDone: false,
-        });
-        state.hasChanged = true;
-        this.newItem = "";
+        state.list = items;
       });
     },
+    onAdd: async function (newItemTitle, event) {
+      event.preventDefault();
+      const data = await addTodoItem(newItemTitle);
+      this.saveNewItems(data.items);
+      this.newItemTitle = "";
+    },
+    // Pinia method to add items (frontend only, no backend)
+    // onAdd: function (newItemTitle, event) {
+    //   event.preventDefault();
+    //   this.todo.$patch((state) => {
+    //     state.list.push({
+    //       id: Math.random(),
+    //       title: newItemTitle,
+    //       isDone: false,
+    //     });
+    //     this.newItemTitle = "";
+    //   });
+    // },
   },
 };
 </script>

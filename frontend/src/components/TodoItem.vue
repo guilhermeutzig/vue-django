@@ -20,6 +20,7 @@
 
 <script>
 import { useTodoStore } from "../store/todo.ts";
+import { deleteTodoItem, editTodoItem } from "../api/todo.ts";
 
 import InputField from "./InputField.vue";
 import CheckboxField from "./CheckboxField.vue";
@@ -44,31 +45,33 @@ export default {
     };
   },
   methods: {
+    saveNewItems: function (items) {
+      this.todo.$patch((state) => {
+        state.list = items;
+      });
+    },
     getItemIndex: function (list, id) {
       return list.findIndex((item) => item.id === id);
     },
-    onDelete: function (id) {
-      this.todo.$patch((state) => {
-        const index = this.getItemIndex(state.list, id);
-        state.list.splice(index, 1);
-        state.hasChanged = true;
-      });
+    onDelete: async function (id) {
+      const data = await deleteTodoItem(id);
+      this.saveNewItems(data.items);
     },
-    onEdit: function (e) {
+    onEdit: async function (e) {
       e.preventDefault();
-      this.todo.$patch((state) => {
-        const index = this.getItemIndex(state.list, this.item.id);
-        state.list[index].title = this.itemTitle;
-        state.hasChanged = true;
-        this.editMode = false;
+      const data = await editTodoItem({
+        id: this.item.id,
+        title: this.itemTitle,
       });
+      this.editMode = false;
+      this.saveNewItems(data.items);
     },
-    onCheck: function (e) {
-      this.todo.$patch((state) => {
-        const index = this.getItemIndex(state.list, this.item.id);
-        state.list[index].isDone = e.target.checked;
-        state.hasChanged = true;
+    onCheck: async function (e) {
+      const data = await editTodoItem({
+        id: this.item.id,
+        isDone: e.target.checked,
       });
+      this.saveNewItems(data.items);
     },
   },
 };
