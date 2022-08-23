@@ -39,9 +39,6 @@ def editItem(request, id):
     if not 'title' in payload:
         payload['title'] = item.title
 
-    print(payload)
-    print('title' in payload)
-
     serializer = ItemSerializer(item, data=request.data)
     data = {}
     if serializer.is_valid():
