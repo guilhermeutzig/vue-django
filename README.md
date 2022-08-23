@@ -18,6 +18,16 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 ### How to run
 
+Before everything you're gonna need to setup local and production env variables. Create an `.env` and an `.env.production` files inside `frontend/` with it's following contents (respectively):
+
+```
+VUE_APP_API_URL="http://127.0.0.1:8000/api"
+```
+
+```
+VUE_APP_API_URL="http://utzigui-vue-django.herokuapp.com/api"
+```
+
 Install Docker to your machine and run:
 
 ```sh
