@@ -1,7 +1,7 @@
 version: 2.1
 jobs:
   build:
-    working_directory: ~/vue-django/frontend
+    working_directory: ~/vue-django
     docker:
       - image: cimg/node:14.19.0
     steps:
@@ -12,7 +12,7 @@ jobs:
           command: "sudo npm install -g npm"
       - run:
           name: Install Dependencies
-          command: npm install
+          command: cd frontend && npm install
       - run:
           name: Build
           command: npm run build
