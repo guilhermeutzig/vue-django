@@ -8,7 +8,7 @@ jobs:
       - image: cimg/node:14.19.0
     steps:
       - checkout
-      - run: ls
+      - heroku/install
       - run:
           name: Update NPM
           command: "sudo npm install -g npm"
@@ -18,14 +18,10 @@ jobs:
       - run:
           name: Build
           command: cd frontend && npm run build
+      - run: ls
+      - heroku/deploy-via-git
 
 workflows:
   heroku_deploy:
     jobs:
       - build
-      - heroku/deploy-via-git:
-          requires:
-            - build
-          filters:
-            branches:
-              only: main
