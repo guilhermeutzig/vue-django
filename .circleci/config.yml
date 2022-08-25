@@ -1,30 +1,26 @@
 version: 2.1
-
-orbs:
-  heroku: circleci/heroku@0.0.10
-
 jobs:
   build:
+    working_directory: ~/repo
     docker:
-      - image: circleci/node:10.16.3
-    working_directory: ~/vue-django/frontend
+      - image: cimg/node:14.19.0
     steps:
       - checkout
-      # install dependencies
+      - run:
+          name: Update NPM
+          command: "sudo npm install -g npm"
       - run:
           name: Install Dependencies
           command: npm install
       - run:
-          name: Run build
+          name: Build
           command: npm run build
 
 workflows:
-  heroku_deploy:
+  build-deploy:
     jobs:
-      - build
-      - heroku/deploy-via-git: # Use the pre-configured job, deploy-via-git
-          requires:
-            - build
+      - build:
           filters:
             branches:
-              only: main
+              only:
+                - main
