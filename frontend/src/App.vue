@@ -1,7 +1,6 @@
 <template>
   <div class="container">
-    dasdasd asdasd
-    <TodoList /> asdasdasd
+    <TodoList />
   </div>
 </template>
 

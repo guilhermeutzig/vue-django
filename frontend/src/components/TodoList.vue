@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
     <img alt="Vue logo" src="../assets/logo.png" />
-    <h1>test docker</h1>
+    <h1>test circleci</h1>
     <h3>Todo</h3>
     <ul v-if="todo.notDoneItems.length > 0 || todo.doneItems.length > 0">
       <li v-for="item in todo.notDoneItems" :key="item.title">
