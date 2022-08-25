@@ -6,4 +6,4 @@ workflows:
     jobs:
       - heroku/deploy-via-git:
           pre-steps:
-            - run: cd frontend && yarn build
+            - run: ls
