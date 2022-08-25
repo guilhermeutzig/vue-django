@@ -18,10 +18,12 @@ jobs:
           command: cd frontend && npm run build
 
 workflows:
-  build-deploy:
+  heroku_deploy:
     jobs:
-      - build:
+      - build
+      - heroku/deploy-via-git: # Use the pre-configured job, deploy-via-git
+          requires:
+            - build
           filters:
             branches:
-              only:
-                - main
+              only: main
