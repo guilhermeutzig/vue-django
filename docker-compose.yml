@@ -13,17 +13,23 @@ services:
       - .:/app
     ports:
       - "8000:8000"
+    expose:
+      - 8000
     depends_on:
       - vue
   vue:
     build:
       context: .
-      dockerfile: docker/FrontendDockerfile
+      dockerfile: frontend/Dockerfile
     container_name: docker-django-vue-frontend
-    command: ./docker/frontend_setup.sh
+    stdin_open: true
+    tty: true
     environment:
       - CHOKIDAR_USEPOLLING=true
     volumes:
-      - .:/app
+      - "/app/node_modules"
+      - ".:/app"
     ports:
       - "8080:8080"
+    expose:
+      - 8080

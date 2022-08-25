@@ -1,9 +1,10 @@
 FROM node:14.17.5
 
-COPY package*.json ./app
 COPY . /app
 
 RUN npm install
 
 WORKDIR /app
 EXPOSE 8080
+
+# CMD ["npm", "run", "serve"]
