@@ -28,22 +28,24 @@ VUE_APP_API_URL="http://127.0.0.1:8000/api"
 VUE_APP_API_URL="http://utzigui-vue-django.herokuapp.com/api"
 ```
 
-Install Docker to your machine and run:
+You're gonna need to install Python, Django and Pip to run.
+
+Tutorial: https://docs.djangoproject.com/en/1.8/howto/windows/#:~:text=Django%20can%20be%20installed%20easily,version%20in%20the%20command%20prompt.
+
+After all installed, install the project requirements:
 
 ```sh
-docker compose up
+pip install -r requirements.txt
 ```
 
-or
-
-Install Node and Python, open two different terminal tabs and run these two commands:
+And now you can open two terminals and run these commands on each:
 
 ```sh
 ./manage.py runserver
 ```
 
 ```sh
-cd frontend && yarn serve
+cd frontend && yarn && yarn serve
 ```
 
 ### Deploy

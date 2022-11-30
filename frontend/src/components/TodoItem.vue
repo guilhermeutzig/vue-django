@@ -11,7 +11,7 @@
     <div class="content" v-if="!editMode">
       <button type="button" @click="editMode = !editMode">Edit</button>
       <button className="warning" type="button" @click="onDelete(item.id)">
-        Delete
+        Delete 
       </button>
     </div>
     <button class="success" type="submit" v-if="editMode">Done</button>

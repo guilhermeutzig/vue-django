@@ -1,7 +1,7 @@
 const publicPath =
   process.env.NODE_ENV === "production"
     ? "/static/dist/"
-    : "http://0.0.0.0:8080";
+    : "http://0.0.0.0:8081";
 
 module.exports = {
   publicPath,
@@ -14,7 +14,7 @@ module.exports = {
   },
   devServer: {
     host: "0.0.0.0",
-    port: 8080,
+    port: 8081,
     hot: "only",
     headers: {
       "Access-Control-Allow-Origin": ["*"],
@@ -31,7 +31,7 @@ module.exports = {
       publicPath,
     },
     client: {
-      webSocketURL: "ws://0.0.0.0:8080/ws",
+      webSocketURL: "ws://0.0.0.0:8081/ws",
     },
     allowedHosts: "all",
   },
